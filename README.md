@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I am currently working as an intern in a large company
-- 🌱 I’m currently learning Javascript and Java
+- 👨‍💻 I am currently working as an intern in a large company
+- 👨‍🎓 I’m currently studying Alysis and Systems Development at University of Fortaleza in Brazil
+- 👨‍🎓 I’m currently learning Javascript and Java
 - 📫 How to reach me: hamilton.morais06@gmail.com
 
 <div align="center">
