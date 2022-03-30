@@ -2,7 +2,7 @@
 
 - 👨‍💻 I am currently working as an intern in a large company
 - 👨‍🎓 I’m currently studying Analysis and Systems Development at University of Fortaleza in Brazil
-- 👨‍🎓 I’m currently learning Javascript and Java
+- 👨‍🎓 I’m currently learning React JS 
 - 📫 How to reach me: hamilton.morais06@gmail.com
 
 <div align="center">
