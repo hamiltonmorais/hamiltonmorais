@@ -4,12 +4,6 @@
 - 👨‍💻 I have large experience with ETL, Data Analysys using SQL, Power BI and Excel
 - 👨‍🎓 I’m currently studying Python
 - 📫 How to reach me: hamilton.morais06@gmail.com
-
-<div align="center">
-  <a href="https://github.com/hamiltonmorais">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hamiltonmorais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamiltonmorais&layout=compact&langs_count=7&theme=dark"/>
-</div>
     
 ## Connect with me 😄
 <div> 
