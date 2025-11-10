@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 👨‍💻 I am currently working as an intern in a large company
-- 👨‍🎓 I’m currently studying Analysis and Systems Development at University of Fortaleza in Brazil
-- 👨‍🎓 I’m currently learning React JS 
+- 👨‍💻 I am currently working as Data Analyst
+- 👨‍🎓 I’m currently studying Python
 - 📫 How to reach me: hamilton.morais06@gmail.com
 
 <div align="center">
@@ -14,10 +13,9 @@
   ## Languages and Tools:
   
 <div style ="display": inline_block"> <br>
-    <img allign="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img allign="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-    <img allign="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" /> 
-    <img allign="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" />                                                                                                                                      
+    <img allign="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+    <img allign="center" height"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css)" />
+                                                                                                                             
 </div>
      
 ## Connect with me 😄
