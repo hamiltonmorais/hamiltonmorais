@@ -2,7 +2,7 @@
 
 - 👨‍💻 I am currently working as RPA Developer
 - 👨‍💻I have large experience with Power Automate and UiPath
-- 👨‍💻 I have large experience with ETL, Data Analysys using SQL, Power BI and Excel
+- 👨‍💻 I have large experience with ETL, Data Analysis using SQL, Power BI and Excel
 - 👨‍🎓 I’m currently studying Uipath
 - 📫 How to reach me: hamilton.morais06@gmail.com
     
